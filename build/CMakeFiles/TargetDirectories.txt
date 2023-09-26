@@ -1,0 +1,16 @@
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/common.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/frechet.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/run_tests.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/test_curves.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/pruning_progress.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/export_freespace_diagram.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/compare_implementations.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/calc_frechet_distance.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/shortest_certificate_bench.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/performance_test.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/paper_experiments.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/create_benchmark.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/create_benchmark_decider.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/test.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/edit_cache.dir
+/Users/nicolas/Desktop/frechet_distance/build/CMakeFiles/rebuild_cache.dir
